@@ -11,5 +11,7 @@ public class Main {
            System.out.println(iterator.next());
        }
 
+        System.out.println();
+
     }
 }

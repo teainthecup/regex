@@ -19,4 +19,6 @@ public class CertuvIterator<Osoba> implements Iterator<Osoba> {
         aktualniIndex--;
         return (Osoba) seznam.get(aktualniIndex+1);
     }
+
+
 }
